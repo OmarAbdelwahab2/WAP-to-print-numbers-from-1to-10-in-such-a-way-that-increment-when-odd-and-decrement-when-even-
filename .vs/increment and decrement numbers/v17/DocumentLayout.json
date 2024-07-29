@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\increment and decrement numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AA1981-B816-42D0-83E0-EACD2374AED1}|increment and decrement numbers\\increment and decrement numbers.vcxproj|C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\increment and decrement numbers\\increment and decrement numbers\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6AA1981-B816-42D0-83E0-EACD2374AED1}|increment and decrement numbers\\increment and decrement numbers.vcxproj|solutionrelative:increment and decrement numbers\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\increment and decrement numbers\\increment and decrement numbers\\Source.c",
+              "RelativeDocumentMoniker": "increment and decrement numbers\\Source.c",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\increment and decrement numbers\\increment and decrement numbers\\Source.c",
+              "RelativeToolTip": "increment and decrement numbers\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-29T12:13:42.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
